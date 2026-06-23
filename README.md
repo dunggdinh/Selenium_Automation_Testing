@@ -1,7 +1,5 @@
 # Selenium Automation Testing (Java)
 
-Dự án Java + Selenium với ít nhất 03 test case tự động cho website mẫu `https://www.saucedemo.com/`.
-
 ## Chạy test trên bash
 
 1. Cài Java 17 và Maven.
@@ -10,8 +8,6 @@ Dự án Java + Selenium với ít nhất 03 test case tự động cho website 
    chmod +x run-tests.sh
    ./run-tests.sh
    ```
-
-## Cấu trúc dự án
 
 # BÁO CÁO DỰ ÁN: SELENIUM AUTOMATION TESTING
 
